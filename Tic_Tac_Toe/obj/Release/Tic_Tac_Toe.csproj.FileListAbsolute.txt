@@ -1,0 +1,17 @@
+D:\Programowanie\My Programs\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe.config
+D:\Programowanie\My Programs\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe
+D:\Programowanie\My Programs\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.pdb
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.csproj.AssemblyReference.cache
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.csproj.SuggestedBindingRedirects.cache
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Human_Human.resources
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Human_PC.resources
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Menu.resources
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.Properties.Resources.resources
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.csproj.GenerateResource.cache
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.exe
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.pdb
+D:\Programowanie\My Programs\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.exe.manifest
+D:\Programowanie\My Programs\Tic_Tac_Toe\bin\Release\Tic_Tac_Toe.application
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.exe.manifest
+D:\Programowanie\My Programs\Tic_Tac_Toe\obj\Release\Tic_Tac_Toe.application
